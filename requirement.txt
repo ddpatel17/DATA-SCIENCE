@@ -2,3 +2,4 @@ Seaborn
 matplotlib
 numpy
 Seaborn
+django
